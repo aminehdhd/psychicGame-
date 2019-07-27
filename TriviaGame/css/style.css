@@ -1,0 +1,32 @@
+body{
+  background-image: url(/images/shapeBackground.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+html,body{
+    height:100% ;
+    padding: 0;
+    margin: 0;
+
+}
+.main{
+    background-color:yellow;
+    margin: 0 200px;
+    height: 100%;
+}
+#header{
+    font-size: 95px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    padding-top: 100px;
+}
+#timer{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    padding-top: 35px;
+}
